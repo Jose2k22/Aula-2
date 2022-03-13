@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    color: #3f3d56;
+    font-family:'Roboto', sans-serif;
+}
+
+body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+.title{
+    font-size: 37px;
+    margin-bottom: 22px;
+    font-weight: 700;
+}
+
+
+.label-field{
+    font-size: 14px;
+
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+}
